@@ -1,0 +1,3 @@
+scoreboard objectives remove EntityCounts
+scoreboard objectives remove MiniProfilerState
+scoreboard objectives remove RefreshTimer
